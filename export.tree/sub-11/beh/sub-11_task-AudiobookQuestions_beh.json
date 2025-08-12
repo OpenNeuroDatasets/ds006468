@@ -1,0 +1,21 @@
+{
+    "TaskName": "AudiobookQuestions",
+    "InstitutionName": "Carl von Ossietzky University Oldenburg",
+    "InstitutionAddress": "Kuepkersweg 74,Oldenburg,District,DE,26129",
+    "InstitutionalDepartmentName": "Department of Medical Physics and Acoustics",
+    "Instructions": "Once the audiobook finishes, three questions will appear on your screen. Please answer them by speaking to the instructor.",
+    "TaskDescription": "After the auditory stimulation, participants answered comprehension questions related to the audiobook content.",
+    "audiobook": {
+        "LongName": "audiobook",
+        "Description": "Audiobook that the questions belonged to."
+    },
+    "run": {
+        "LongName": "run",
+        "Description": "Audiobook run that the questions belonged to."
+    },
+    "answers_correct": {
+        "LongName": "Answers correctly responded",
+        "Description": "For each audiobook and run, three questions were asked to the participant. The percentage of correctly answered questions is depicted here.",
+        "Units": "%"
+    }
+}

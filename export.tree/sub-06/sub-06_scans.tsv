@@ -1,0 +1,9 @@
+filename	acq_time
+meg/sub-06_task-audiobook1_run-01_meg.fif	1910-02-11T14:06:47.295706Z
+meg/sub-06_task-audiobook1_run-02_meg.fif	1910-02-11T14:21:29.562470Z
+meg/sub-06_task-audiobook2_run-01_meg.fif	1910-02-11T14:36:07.249186Z
+meg/sub-06_task-audiobook2_run-02_meg.fif	1910-02-11T14:47:37.400596Z
+meg/sub-06_task-noise_run-01_meg.fif	1910-02-11T13:04:06.242818Z
+meg/sub-06_task-noise_run-02_meg.fif	1910-02-11T15:03:07.220942Z
+meg/sub-06_task-olsa_meg.fif	1910-02-11T13:55:24.892382Z
+anat/sub-06_T1w.nii.gz	1910-02-19T13:07:50.640000Z

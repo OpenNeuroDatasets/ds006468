@@ -1,0 +1,596 @@
+﻿onset	duration	value	sample	trial_type	stim_file
+5.623	0	2	5623	up-chirp	transient/upchirp_stim.wav
+6.854	0	2	6854	up-chirp	transient/upchirp_stim.wav
+7.97	0	2	7970	up-chirp	transient/upchirp_stim.wav
+9.178	0	2	9178	up-chirp	transient/upchirp_stim.wav
+10.339	0	2	10339	up-chirp	transient/upchirp_stim.wav
+11.617	0	2	11617	up-chirp	transient/upchirp_stim.wav
+12.848	0	2	12848	up-chirp	transient/upchirp_stim.wav
+14.126	0	2	14126	up-chirp	transient/upchirp_stim.wav
+15.287	0	2	15287	up-chirp	transient/upchirp_stim.wav
+16.588	0	2	16588	up-chirp	transient/upchirp_stim.wav
+17.843	0	2	17843	up-chirp	transient/upchirp_stim.wav
+19.097	0	2	19097	up-chirp	transient/upchirp_stim.wav
+20.259	0	2	20259	up-chirp	transient/upchirp_stim.wav
+21.49	0	2	21490	up-chirp	transient/upchirp_stim.wav
+22.605	0	2	22605	up-chirp	transient/upchirp_stim.wav
+23.836	0	2	23836	up-chirp	transient/upchirp_stim.wav
+24.998	0	2	24998	up-chirp	transient/upchirp_stim.wav
+26.253	0	2	26253	up-chirp	transient/upchirp_stim.wav
+27.414	0	2	27414	up-chirp	transient/upchirp_stim.wav
+28.715	0	2	28715	up-chirp	transient/upchirp_stim.wav
+29.9	0	2	29900	up-chirp	transient/upchirp_stim.wav
+31.108	0	2	31108	up-chirp	transient/upchirp_stim.wav
+32.432	0	2	32432	up-chirp	transient/upchirp_stim.wav
+33.617	0	2	33617	up-chirp	transient/upchirp_stim.wav
+34.802	0	2	34802	up-chirp	transient/upchirp_stim.wav
+35.94	0	2	35940	up-chirp	transient/upchirp_stim.wav
+37.125	0	2	37125	up-chirp	transient/upchirp_stim.wav
+38.426	0	2	38426	up-chirp	transient/upchirp_stim.wav
+39.587	0	2	39587	up-chirp	transient/upchirp_stim.wav
+40.749	0	2	40749	up-chirp	transient/upchirp_stim.wav
+42.073	0	2	42073	up-chirp	transient/upchirp_stim.wav
+43.281	0	2	43281	up-chirp	transient/upchirp_stim.wav
+44.559	0	2	44559	up-chirp	transient/upchirp_stim.wav
+45.836	0	2	45836	up-chirp	transient/upchirp_stim.wav
+47.114	0	2	47114	up-chirp	transient/upchirp_stim.wav
+48.392	0	2	48392	up-chirp	transient/upchirp_stim.wav
+49.693	0	2	49693	up-chirp	transient/upchirp_stim.wav
+50.878	0	2	50878	up-chirp	transient/upchirp_stim.wav
+52.086	0	2	52086	up-chirp	transient/upchirp_stim.wav
+53.387	0	2	53387	up-chirp	transient/upchirp_stim.wav
+54.664	0	2	54664	up-chirp	transient/upchirp_stim.wav
+55.826	0	2	55826	up-chirp	transient/upchirp_stim.wav
+56.987	0	2	56987	up-chirp	transient/upchirp_stim.wav
+58.288	0	2	58288	up-chirp	transient/upchirp_stim.wav
+59.52	0	2	59520	up-chirp	transient/upchirp_stim.wav
+60.821	0	2	60821	up-chirp	transient/upchirp_stim.wav
+62.029	0	2	62029	up-chirp	transient/upchirp_stim.wav
+63.213	0	2	63213	up-chirp	transient/upchirp_stim.wav
+64.491	0	2	64491	up-chirp	transient/upchirp_stim.wav
+65.653	0	2	65653	up-chirp	transient/upchirp_stim.wav
+66.768	0	2	66768	up-chirp	transient/upchirp_stim.wav
+67.906	0	2	67906	up-chirp	transient/upchirp_stim.wav
+69.161	0	2	69161	up-chirp	transient/upchirp_stim.wav
+70.299	0	2	70299	up-chirp	transient/upchirp_stim.wav
+71.484	0	2	71484	up-chirp	transient/upchirp_stim.wav
+72.622	0	2	72622	up-chirp	transient/upchirp_stim.wav
+73.807	0	2	73807	up-chirp	transient/upchirp_stim.wav
+74.968	0	2	74968	up-chirp	transient/upchirp_stim.wav
+76.084	0	2	76084	up-chirp	transient/upchirp_stim.wav
+77.245	0	2	77245	up-chirp	transient/upchirp_stim.wav
+84.157	1	1	84157	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+85.157	1	1	85157	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+86.158	1	1	86158	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+87.158	1	1	87158	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+88.159	1	1	88159	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+89.159	1	1	89159	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+90.16	1	1	90160	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+91.16	1	1	91160	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+92.161	1	1	92161	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+93.161	1	1	93161	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+94.162	1	1	94162	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+95.162	1	1	95162	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+96.163	1	1	96163	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+97.163	1	1	97163	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+98.164	1	1	98164	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+99.164	1	1	99164	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+100.165	1	1	100165	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+101.165	1	1	101165	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+102.166	1	1	102166	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+103.166	1	1	103166	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+104.167	1	1	104167	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+105.167	1	1	105167	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+106.167	1	1	106167	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+107.168	1	1	107168	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+108.168	1	1	108168	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+109.169	1	1	109169	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+110.169	1	1	110169	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+111.17	1	1	111170	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+112.17	1	1	112170	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+113.171	1	1	113171	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+114.171	1	1	114171	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+115.172	1	1	115172	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+116.172	1	1	116172	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+117.173	1	1	117173	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+118.173	1	1	118173	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+119.174	1	1	119174	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+120.174	1	1	120174	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+121.175	1	1	121175	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+122.175	1	1	122175	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+123.176	1	1	123176	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+124.176	1	1	124176	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+125.177	1	1	125177	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+126.177	1	1	126177	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+127.178	1	1	127178	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+128.178	1	1	128178	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+129.179	1	1	129179	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+130.179	1	1	130179	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+131.18	1	1	131180	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+132.18	1	1	132180	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+133.181	1	1	133181	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+134.181	1	1	134181	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+135.182	1	1	135182	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+136.182	1	1	136182	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+137.183	1	1	137183	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+138.183	1	1	138183	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+139.183	1	1	139183	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+140.184	1	1	140184	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+141.184	1	1	141184	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+142.185	1	1	142185	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+143.185	1	1	143185	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+144.186	1	1	144186	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+145.186	1	1	145186	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+146.187	1	1	146187	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+147.187	1	1	147187	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+148.188	1	1	148188	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+149.188	1	1	149188	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+150.189	1	1	150189	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+151.189	1	1	151189	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+152.19	1	1	152190	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+153.19	1	1	153190	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+154.191	1	1	154191	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+155.191	1	1	155191	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+156.192	1	1	156192	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+157.192	1	1	157192	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+158.193	1	1	158193	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+159.193	1	1	159193	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+160.194	1	1	160194	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+161.194	1	1	161194	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+162.195	1	1	162195	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+163.195	1	1	163195	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+164.196	1	1	164196	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+165.196	1	1	165196	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+166.197	1	1	166197	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+167.197	1	1	167197	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+168.198	1	1	168198	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+169.198	1	1	169198	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+170.199	1	1	170199	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+171.199	1	1	171199	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+172.199	1	1	172199	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+173.2	1	1	173200	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+174.2	1	1	174200	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+175.201	1	1	175201	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+176.201	1	1	176201	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+177.202	1	1	177202	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+178.202	1	1	178202	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+179.203	1	1	179203	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+180.203	1	1	180203	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+181.204	1	1	181204	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+182.204	1	1	182204	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+183.205	1	1	183205	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+184.205	1	1	184205	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+185.206	1	1	185206	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+186.206	1	1	186206	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+187.207	1	1	187207	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+188.207	1	1	188207	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+189.208	1	1	189208	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+190.208	1	1	190208	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+191.209	1	1	191209	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+192.209	1	1	192209	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+193.21	1	1	193210	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+194.21	1	1	194210	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+195.211	1	1	195211	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+196.211	1	1	196211	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+197.212	1	1	197212	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+198.212	1	1	198212	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+199.213	1	1	199213	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+200.213	1	1	200213	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+201.214	1	1	201214	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+202.214	1	1	202214	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+203.215	1	1	203215	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+204.215	1	1	204215	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+205.216	1	1	205216	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+206.216	1	1	206216	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+207.216	1	1	207216	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+208.217	1	1	208217	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+209.217	1	1	209217	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+210.218	1	1	210218	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+211.218	1	1	211218	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+212.219	1	1	212219	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+213.219	1	1	213219	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+214.22	1	1	214220	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+215.22	1	1	215220	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+216.221	1	1	216221	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+217.221	1	1	217221	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+218.222	1	1	218222	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+219.222	1	1	219222	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+220.223	1	1	220223	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+221.223	1	1	221223	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+222.224	1	1	222224	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+223.224	1	1	223224	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+224.225	1	1	224225	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+225.225	1	1	225225	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+226.226	1	1	226226	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+227.226	1	1	227226	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+228.227	1	1	228227	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+229.227	1	1	229227	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+230.228	1	1	230228	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+231.228	1	1	231228	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+232.229	1	1	232229	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+233.229	1	1	233229	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+234.23	1	1	234230	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+235.23	1	1	235230	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+236.231	1	1	236231	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+237.231	1	1	237231	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+238.232	1	1	238232	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+239.232	1	1	239232	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+240.232	1	1	240232	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+241.233	1	1	241233	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+242.233	1	1	242233	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+243.234	1	1	243234	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+244.234	1	1	244234	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+245.235	1	1	245235	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+246.235	1	1	246235	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+247.236	1	1	247236	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+248.236	1	1	248236	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+249.237	1	1	249237	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+250.237	1	1	250237	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+251.238	1	1	251238	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+252.238	1	1	252238	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+253.239	1	1	253239	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+254.239	1	1	254239	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+255.24	1	1	255240	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+256.24	1	1	256240	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+257.241	1	1	257241	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+258.241	1	1	258241	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+259.242	1	1	259242	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+260.242	1	1	260242	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+261.243	1	1	261243	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+262.243	1	1	262243	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+263.244	1	1	263244	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+264.244	1	1	264244	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+265.245	1	1	265245	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+266.245	1	1	266245	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+267.246	1	1	267246	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+268.246	1	1	268246	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+269.247	1	1	269247	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+270.247	1	1	270247	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+271.248	1	1	271248	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+272.248	1	1	272248	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+273.248	1	1	273248	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+274.249	1	1	274249	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+275.249	1	1	275249	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+276.25	1	1	276250	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+277.25	1	1	277250	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+278.251	1	1	278251	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+279.251	1	1	279251	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+280.252	1	1	280252	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+281.252	1	1	281252	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+282.253	1	1	282253	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+283.253	1	1	283253	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+284.254	1	1	284254	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+285.254	1	1	285254	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+286.255	1	1	286255	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+287.255	1	1	287255	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+288.256	1	1	288256	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+289.256	1	1	289256	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+290.257	1	1	290257	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+291.257	1	1	291257	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+292.258	1	1	292258	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+293.258	1	1	293258	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+294.259	1	1	294259	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+295.259	1	1	295259	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+296.26	1	1	296260	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+297.26	1	1	297260	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+298.261	1	1	298261	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+299.261	1	1	299261	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+300.262	1	1	300262	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+301.262	1	1	301262	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+302.263	1	1	302263	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+303.263	1	1	303263	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+304.264	1	1	304264	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+305.264	1	1	305264	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+306.264	1	1	306264	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+307.265	1	1	307265	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+308.265	1	1	308265	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+309.266	1	1	309266	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+310.266	1	1	310266	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+311.267	1	1	311267	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+312.267	1	1	312267	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+313.268	1	1	313268	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+314.268	1	1	314268	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+315.269	1	1	315269	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+316.269	1	1	316269	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+317.27	1	1	317270	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+318.27	1	1	318270	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+319.271	1	1	319271	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+320.271	1	1	320271	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+321.272	1	1	321272	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+322.272	1	1	322272	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+323.273	1	1	323273	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+324.273	1	1	324273	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+325.274	1	1	325274	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+326.274	1	1	326274	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+327.275	1	1	327275	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+328.275	1	1	328275	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+329.276	1	1	329276	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+330.276	1	1	330276	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+331.277	1	1	331277	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+332.277	1	1	332277	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+333.278	1	1	333278	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+334.278	1	1	334278	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+335.279	1	1	335279	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+336.279	1	1	336279	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+337.28	1	1	337280	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+338.28	1	1	338280	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+339.28	1	1	339280	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+340.281	1	1	340281	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+341.281	1	1	341281	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+342.282	1	1	342282	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+343.282	1	1	343282	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+344.283	1	1	344283	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+345.283	1	1	345283	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+346.284	1	1	346284	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+347.284	1	1	347284	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+348.285	1	1	348285	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+349.285	1	1	349285	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+350.286	1	1	350286	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+351.286	1	1	351286	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+352.287	1	1	352287	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+353.287	1	1	353287	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+354.288	1	1	354288	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+355.288	1	1	355288	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+356.289	1	1	356289	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+357.289	1	1	357289	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+358.29	1	1	358290	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+359.29	1	1	359290	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+360.291	1	1	360291	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+361.291	1	1	361291	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+362.292	1	1	362292	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+363.292	1	1	363292	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+364.293	1	1	364293	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+365.293	1	1	365293	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+366.294	1	1	366294	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+367.294	1	1	367294	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+368.295	1	1	368295	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+369.295	1	1	369295	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+370.296	1	1	370296	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+371.296	1	1	371296	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+372.297	1	1	372297	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+373.297	1	1	373297	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+374.297	1	1	374297	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+375.298	1	1	375298	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+376.298	1	1	376298	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+377.299	1	1	377299	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+378.299	1	1	378299	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+379.3	1	1	379300	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+380.3	1	1	380300	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+381.301	1	1	381301	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+382.301	1	1	382301	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+383.302	1	1	383302	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+384.302	1	1	384302	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+385.303	1	1	385303	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+386.303	1	1	386303	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+387.304	1	1	387304	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+388.304	1	1	388304	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+389.305	1	1	389305	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+390.305	1	1	390305	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+391.306	1	1	391306	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+392.306	1	1	392306	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+393.307	1	1	393307	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+394.307	1	1	394307	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+395.308	1	1	395308	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+396.308	1	1	396308	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+397.309	1	1	397309	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+398.309	1	1	398309	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+399.31	1	1	399310	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+400.31	1	1	400310	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+401.311	1	1	401311	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+402.311	1	1	402311	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+403.312	1	1	403312	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+404.312	1	1	404312	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+405.313	1	1	405313	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+406.313	1	1	406313	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+407.313	1	1	407313	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+408.314	1	1	408314	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+409.314	1	1	409314	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+410.315	1	1	410315	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+411.315	1	1	411315	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+412.316	1	1	412316	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+413.316	1	1	413316	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+414.317	1	1	414317	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+415.317	1	1	415317	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+416.318	1	1	416318	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+417.318	1	1	417318	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+418.319	1	1	418319	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+419.319	1	1	419319	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+420.32	1	1	420320	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+421.32	1	1	421320	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+422.321	1	1	422321	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+423.321	1	1	423321	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+424.322	1	1	424322	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+425.322	1	1	425322	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+426.323	1	1	426323	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+427.323	1	1	427323	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+428.324	1	1	428324	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+429.324	1	1	429324	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+430.325	1	1	430325	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+431.325	1	1	431325	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+432.326	1	1	432326	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+433.326	1	1	433326	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+434.327	1	1	434327	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+435.327	1	1	435327	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+436.328	1	1	436328	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+437.328	1	1	437328	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+438.329	1	1	438329	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+439.329	1	1	439329	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+440.329	1	1	440329	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+441.33	1	1	441330	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+442.33	1	1	442330	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+443.331	1	1	443331	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+444.331	1	1	444331	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+445.332	1	1	445332	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+446.332	1	1	446332	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+447.333	1	1	447333	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+448.333	1	1	448333	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+449.334	1	1	449334	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+450.334	1	1	450334	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+451.335	1	1	451335	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+452.335	1	1	452335	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+453.336	1	1	453336	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+454.336	1	1	454336	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+455.337	1	1	455337	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+456.337	1	1	456337	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+457.338	1	1	457338	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+458.338	1	1	458338	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+459.339	1	1	459339	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+460.339	1	1	460339	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+461.34	1	1	461340	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+462.34	1	1	462340	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+463.341	1	1	463341	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+464.341	1	1	464341	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+465.342	1	1	465342	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+466.342	1	1	466342	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+467.343	1	1	467343	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+468.343	1	1	468343	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+469.344	1	1	469344	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+470.344	1	1	470344	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+471.345	1	1	471345	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+472.345	1	1	472345	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+473.346	1	1	473346	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+474.346	1	1	474346	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+475.346	1	1	475346	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+476.347	1	1	476347	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+477.347	1	1	477347	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+478.348	1	1	478348	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+479.348	1	1	479348	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+480.349	1	1	480349	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+481.349	1	1	481349	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+482.35	1	1	482350	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+483.35	1	1	483350	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+484.351	1	1	484351	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+485.351	1	1	485351	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+486.352	1	1	486352	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+487.352	1	1	487352	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+488.353	1	1	488353	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+489.353	1	1	489353	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+490.354	1	1	490354	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+491.354	1	1	491354	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+492.355	1	1	492355	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+493.355	1	1	493355	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+494.356	1	1	494356	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+495.356	1	1	495356	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+496.357	1	1	496357	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+497.357	1	1	497357	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+498.358	1	1	498358	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+499.358	1	1	499358	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+500.359	1	1	500359	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+501.359	1	1	501359	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+502.36	1	1	502360	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+503.36	1	1	503360	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+504.361	1	1	504361	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+505.361	1	1	505361	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+506.362	1	1	506362	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+507.362	1	1	507362	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+508.362	1	1	508362	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+509.363	1	1	509363	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+510.363	1	1	510363	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+511.364	1	1	511364	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+512.364	1	1	512364	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+513.365	1	1	513365	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+514.365	1	1	514365	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+515.366	1	1	515366	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+516.366	1	1	516366	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+517.367	1	1	517367	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+518.367	1	1	518367	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+519.368	1	1	519368	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+520.368	1	1	520368	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+521.369	1	1	521369	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+522.369	1	1	522369	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+523.37	1	1	523370	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+524.37	1	1	524370	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+525.371	1	1	525371	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+526.371	1	1	526371	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+527.372	1	1	527372	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+528.372	1	1	528372	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+529.373	1	1	529373	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+530.373	1	1	530373	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+531.374	1	1	531374	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+532.374	1	1	532374	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+533.375	1	1	533375	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+534.375	1	1	534375	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+535.376	1	1	535376	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+536.376	1	1	536376	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+537.377	1	1	537377	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+538.377	1	1	538377	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+539.378	1	1	539378	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+540.378	1	1	540378	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+541.378	1	1	541378	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+542.379	1	1	542379	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+543.379	1	1	543379	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+544.38	1	1	544380	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+545.38	1	1	545380	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+546.381	1	1	546381	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+547.381	1	1	547381	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+548.382	1	1	548382	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+549.382	1	1	549382	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+550.383	1	1	550383	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+551.383	1	1	551383	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+552.384	1	1	552384	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+553.384	1	1	553384	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+554.385	1	1	554385	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+555.385	1	1	555385	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+556.386	1	1	556386	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+557.386	1	1	557386	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+558.387	1	1	558387	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+559.387	1	1	559387	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+560.388	1	1	560388	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+561.388	1	1	561388	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+562.389	1	1	562389	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+563.389	1	1	563389	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+564.39	1	1	564390	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+565.39	1	1	565390	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+566.391	1	1	566391	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+567.391	1	1	567391	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+568.392	1	1	568392	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+569.392	1	1	569392	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+570.393	1	1	570393	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+571.393	1	1	571393	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+572.394	1	1	572394	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+573.394	1	1	573394	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+574.394	1	1	574394	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+575.395	1	1	575395	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+576.395	1	1	576395	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+577.396	1	1	577396	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+578.396	1	1	578396	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+579.397	1	1	579397	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+580.397	1	1	580397	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+581.398	1	1	581398	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+582.398	1	1	582398	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+583.399	1	1	583399	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+584.399	1	1	584399	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+585.4	1	1	585400	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+586.4	1	1	586400	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+587.401	1	1	587401	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+588.401	1	1	588401	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+589.402	1	1	589402	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+590.402	1	1	590402	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+591.403	1	1	591403	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+592.403	1	1	592403	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+593.404	1	1	593404	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+594.404	1	1	594404	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+595.405	1	1	595405	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+596.405	1	1	596405	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+597.406	1	1	597406	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+598.406	1	1	598406	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+599.407	1	1	599407	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+600.407	1	1	600407	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+601.408	1	1	601408	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+602.408	1	1	602408	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+603.409	1	1	603409	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+604.409	1	1	604409	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+605.41	1	1	605410	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+606.41	1	1	606410	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+607.41	1	1	607410	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+608.411	1	1	608411	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+609.411	1	1	609411	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+610.412	1	1	610412	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+611.412	1	1	611412	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+612.413	1	1	612413	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+613.413	1	1	613413	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+614.414	1	1	614414	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+615.414	1	1	615414	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+616.415	1	1	616415	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+617.415	1	1	617415	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
+618.416	1	1	618416	audiobook 1s	audiobooks/task-audiobook2_run-02_stim.wav
