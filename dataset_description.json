@@ -1,5 +1,5 @@
 {
-    "Name": "MEG-SCANS - a high quality magneto-encephalography speech dataset with Stories, Chirps And Noisy Sentences.",
+    "Name": "MEG-SCANS - A comprehensive magnetoencephalography speech dataset with Stories, Chirps And Noisy Sentences.",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "License": "CC0",
