@@ -1,4 +1,0 @@
-1.1.0 2025-10-20
-  - - Inclusion of improved transcripts (Word and phone labels for audiobook and OLSA files)   - Removed sub-02, audiobook2-run-01 because audiofiles can't be shared.
-1.0.0 2025-07-16
-  - Upload MEG-SCANS
