@@ -1,0 +1,13 @@
+frequency	hearing threshold (left)	hearing threshold (right)
+125	0	10
+250	0	10
+500	0	15
+750	5	15
+1000	5	20
+1500	5	10
+2000	5	5
+3000	5	5
+4000	5	0
+6000	5	5
+8000	15	10
+10000	10	10
